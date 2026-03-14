@@ -1,16 +1,173 @@
-# React + Vite
+# Kamila Urmanova — AI Automation & Prompt Engineering
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Я помогаю бизнесу экономить время с помощью AI-ботов и нейросетей.
 
-Currently, two official plugins are available:
+Этот сайт — портфолио моих решений по автоматизации: от AI-ассистентов до инструментов, которые ускоряют работу специалистов и уменьшают ручную рутину.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Здесь можно посмотреть:
+- примеры AI-решений для бизнеса  
+- мой подход к работе и внедрению автоматизации  
+- какие задачи можно решить с помощью AI  
+- как со мной связаться для сотрудничества  
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Скриншоты проекта
 
-## Expanding the ESLint configuration
+### Главная страница
+![Hero](screenshots/hero.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Как я работаю
+![Workflow](screenshots/workflow.png)
+
+### Кейсы
+![Cases](screenshots/cases.png)
+
+### Польза для бизнеса
+![Benefits](screenshots/benefits.png)
+
+### Услуги
+![Services](screenshots/services.png)
+
+### Обо мне
+![About](screenshots/about.png)
+
+### Связаться
+![Contact](screenshots/contact.png)
+
+---
+
+## Что я делаю
+
+Я создаю AI-инструменты, которые помогают бизнесу автоматизировать рутинные задачи и ускорять работу специалистов.
+
+Например:
+
+- AI-боты для обработки запросов клиентов  
+- автоматизация подготовки документов и технических заданий  
+- AI-ассистенты для специалистов  
+- инструменты на базе LLM для поиска и структурирования информации  
+
+Главная цель — **сократить ручную работу и ускорить процессы в компании.**
+
+---
+
+## Примеры задач, которые можно автоматизировать
+
+- подбор решений или услуг по заданным параметрам  
+- подготовка технических заданий  
+- ответы на типовые запросы клиентов  
+- структурирование информации и документов  
+- ускорение внутренних процессов компании  
+
+---
+
+## Технологии
+
+Проект создан с использованием современных веб-инструментов:
+
+- React  
+- Vite  
+- JavaScript  
+- CSS  
+
+---
+
+## Запуск проекта
+
+Если вы хотите запустить сайт локально:
+# Kamila Urmanova — AI Automation & Prompt Engineering
+
+Я помогаю бизнесу экономить время с помощью AI-ботов и нейросетей.
+
+Этот сайт — портфолио моих решений по автоматизации: от AI-ассистентов до инструментов, которые ускоряют работу специалистов и уменьшают ручную рутину.
+
+Здесь можно посмотреть:
+- примеры AI-решений для бизнеса  
+- мой подход к работе и внедрению автоматизации  
+- какие задачи можно решить с помощью AI  
+- как со мной связаться для сотрудничества  
+
+---
+
+## Скриншоты проекта
+
+### Главная страница
+![Hero](screenshots/hero.png)
+
+### Как я работаю
+![Workflow](screenshots/workflow.png)
+
+### Кейсы
+![Cases](screenshots/cases.png)
+
+### Польза для бизнеса
+![Benefits](screenshots/benefits.png)
+
+### Услуги
+![Services](screenshots/services.png)
+
+### Обо мне
+![About](screenshots/about.png)
+
+### Связаться
+![Contact](screenshots/contact.png)
+
+---
+
+## Что я делаю
+
+Я создаю AI-инструменты, которые помогают бизнесу автоматизировать рутинные задачи и ускорять работу специалистов.
+
+Например:
+
+- AI-боты для обработки запросов клиентов  
+- автоматизация подготовки документов и технических заданий  
+- AI-ассистенты для специалистов  
+- инструменты на базе LLM для поиска и структурирования информации  
+
+Главная цель — **сократить ручную работу и ускорить процессы в компании.**
+
+---
+
+## Примеры задач, которые можно автоматизировать
+
+- подбор решений или услуг по заданным параметрам  
+- подготовка технических заданий  
+- ответы на типовые запросы клиентов  
+- структурирование информации и документов  
+- ускорение внутренних процессов компании  
+
+---
+
+## Технологии
+
+Проект создан с использованием современных веб-инструментов:
+
+- React  
+- Vite  
+- JavaScript  
+- CSS  
+
+---
+
+## Запуск проекта
+
+Если вы хотите запустить сайт локально:
+npm install
+npm run dev
+
+
+После запуска сайт будет доступен по адресу:
+http://localhost:5173
+
+
+---
+
+## Автор
+
+**Kamila Urmanova**  
+AI Automation & Prompt Engineering  
+
+Email: camila-urm@yandex.ru  
+Telegram: @kamiurrr

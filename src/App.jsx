@@ -9,6 +9,7 @@ import {
   ArrowRight,
   ArrowUpRight,
 } from 'lucide-react'
+import ChatWidget from './ChatWidget'
 
 function useInView(threshold = 0.12) {
   const ref = useRef(null)
@@ -634,6 +635,7 @@ export default function App() {
       <About />
       <Contacts />
       <Footer />
+      <ChatWidget />
     </div>
   )
 }
